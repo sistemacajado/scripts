@@ -1,2 +1,14 @@
-# scripts
-Scripts de Criação usado no Sistema Cajado
+     Scripts de Criação usado no Sistema Cajado
+     ==========================================
+
+bootstrap.sh
+------------
+Instalação do Sistema Base
+
+keyboard.sh	
+-----------
+Usado na LiveCD para converter teclado para ABNT2
+
+md5generate.sh
+--------------
+Gera md5 de todos os pacotes no diretório pacotes, presente na LiveCD
