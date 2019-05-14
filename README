@@ -12,3 +12,7 @@ Usado na LiveCD para converter teclado para ABNT2
 md5generate.sh
 --------------
 Gera md5 de todos os pacotes no diretório pacotes, presente na LiveCD
+
+generaiso.sh
+------------
+Gera a ISO
