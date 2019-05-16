@@ -4,9 +4,13 @@
 LiveCD
 =======================================
 
-       bootstrap.sh
+       install.sh
        ------------
        Instalação do Sistema Base
+       
+       configuracao.conf
+       -----------------
+       Categorias de pacotes para instalação.
 
        keyboard.sh	
        -----------
